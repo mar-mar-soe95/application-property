@@ -1,0 +1,12 @@
+demo:
+  jms:
+    username: zisarknar
+    password: 12345
+    dburl: asdg
+    
+---
+spring:  profiles: de
+
+demo:
+  jms:
+    username: sarknar$$$$$$  
